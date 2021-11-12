@@ -1,0 +1,14 @@
+Flask==0.12.2
+gunicorn==19.7.1
+#intsdangerous==0.24
+Jinja2==2.9.6
+#MarkupSafe==0.27
+#Werkzeung==0.12.2
+urllib3
+numpy
+matplotlib
+pandas
+requests
+yfinance
+plotly
+feedparser
